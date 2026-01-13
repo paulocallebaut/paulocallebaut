@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paulo Callebaut</h1>
 <h3 align="center">Data visualization consultant @ Sopra Steria</h3>
 
-- 🔭 I’m currently working on **Power Bi @ ABB**
+- 🔭 I’m currently working on **A Power Bi project @ ABB**
 
 - 🌱 I’m currently learning **Fabric, Python**
 
